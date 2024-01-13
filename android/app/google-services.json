@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440584015509",
+    "project_id": "ex3-mobileapp",
+    "storage_bucket": "ex3-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440584015509:android:05dc49d62ccfe4ddbf959c",
+        "android_client_info": {
+          "package_name": "com.example.ex3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaieMztNkGDMzSnGHG_MdzwcdcPmGLHsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
